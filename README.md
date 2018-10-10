@@ -6,7 +6,7 @@ Default custom Node development enviroment for ES6 Modules with linting/formatti
 - babel-cli
 - babel-eslint
 - babel-preset-env
-- eslint": "^5.6.1",
-- eslint-config-airbnb-base":
-- eslint-plugin-import":
+- eslint
+- eslint-config-airbnb-base
+- eslint-plugin-import
 - prettier
